@@ -16,11 +16,11 @@ public class Task
         this.duplicate=duplicate;
         this.completed=completed;
     }
-    public int getID()
+    public Integer getID()
     {
         return this.id;
     }
-    public void setID(int id)
+    public void setID(Integer id)
     {
         this.id=id;
     }
